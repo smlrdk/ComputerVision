@@ -56,23 +56,23 @@ VGG16 имеет в общей сложности 138 миллионов пар�
 ### Датасет
 
 **Датасет состоит из 50 изображений следующих классов ImageNet:**
-African elephant
-Indian elephant
-airliner
-lemon
-dalmatian
-Pomeranian
-golden retriever
-collie
-dingo
-basenji
-tabby
-Samoyed
-mobile home
-koala
-abacus
-carton
-library
+* African elephant
+* Indian elephant
+* airliner
+* lemon
+* dalmatian
+* Pomeranian
+* golden retriever
+* collie
+* dingo
+* basenji
+* tabby
+* Samoyed
+* mobile home
+* koala
+* abacus
+* carton
+* library
 
 ### Принцип работы состоит из пяти этапов:
 1. Создание датасета.
