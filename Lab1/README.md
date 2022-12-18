@@ -1,5 +1,5 @@
 # Лабораторная работа № 1 по дисциплине "Компьютерное зрение". 
-(Магистратура, 1 курс)
+(Солодкая Мария, магистратура, 1 курс)
 
 ## Вариант 11. Дилатация изображения
 
@@ -21,7 +21,7 @@
 * Фильтр дилатация увеличивает область изображения, расширяя его пиксели и тем самым способствуя объединению областей изображения, которые были разделены шумом и др.
 * Изображение после фильтра становится светлее и слегка размытым. То есть темные детали ослабляются или вообще исчезают, что зависит от соотношения их размеров и яркостей с заданными параметрами фильтра.
 
-<img src="https://github.com/smlrdk/ComputerVision_Lab1/blob/main/readme_img/example_dilate.png">
+<img src="https://github.com/smlrdk/ComputerVision/blob/main/Lab1/readme_img/example_dilate.png">
 Пример применения дилатации к бинарному изображению
 
 ### Описание разработанной системы (алгоритмы, принципы работы, архитектура)
@@ -41,14 +41,13 @@
 ### Результаты работы и тестирования системы (скриншоты, изображения, графики, закономерности)
 
 Пример дилатации, реализованной с помощью библиотеки OpenCV 
-<img src="https://github.com/smlrdk/ComputerVision_Lab1/blob/main/readme_img/opencv_example.png" height="165" width="560">
+<img src="https://github.com/smlrdk/ComputerVision/blob/main/Lab1/readme_img/opencv_example.png" height="165" width="560">
 
 Пример дилатации, реализованной с помощью нативного языка Python
-<img src="https://github.com/smlrdk/ComputerVision_Lab1/blob/main/readme_img/only_python_example.png" height="165" width="560">
+<img src="https://github.com/smlrdk/ComputerVision/blob/main/Lab1/readme_img/only_python_example.png" height="165" width="560">
 
 Пример дилатации, реализованной с помощью компилятора Numba
-<img src="https://github.com/smlrdk/ComputerVision_Lab1/blob/main/readme_img/numba_jit_example.png" height="165" width="560">
-https://github.com/smlrdk/ComputerVision_Lab1/blob/main/readme_img/numba_jit_example.png
+<img src="https://github.com/smlrdk/ComputerVision/blob/main/Lab1/readme_img/numba_jit_example.png" height="165" width="560">
 
 ### Выводы по работе
 
